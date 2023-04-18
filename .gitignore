@@ -10,3 +10,7 @@
 *.mat
 *.npy
 
+LR/*
+results/*
+models/*
+figures/*
